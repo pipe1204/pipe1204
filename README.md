@@ -6,7 +6,7 @@
 
 <br /> 
 
-I'm Andre, a Junior Front End Developer from  🇨🇴 Cali, Colombia, currently living in  🇦🇺 Melbourne, Australia.Currently studying to become a Full Stack Developer 🧑🏻‍💻
+I'm Andre, father of Matias and a Junior Front End Developer from  🇨🇴 Cali, Colombia, currently living in  🇦🇺 Melbourne, Australia.Currently studying to become a Full Stack Developer 🧑🏻‍💻
 
 **THINGS I CODE WITH**
 
